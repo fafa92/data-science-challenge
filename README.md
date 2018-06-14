@@ -1,4 +1,4 @@
-# Tagup data science challenge
+## Tagup data science challenge
 
 ## Getting started
 
